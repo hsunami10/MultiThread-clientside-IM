@@ -1,0 +1,1 @@
+This repository contains the client side of the server: Download this to chat
