@@ -11,7 +11,7 @@ public class MultiThreadClient extends JFrame implements Runnable {
 	private String message = "";
 	private String serverIP;
 	private static int port = 6789;
-	
+	private int count = 0;
 	// Client Socket
 	private Socket clientSocket;
 	// Output Stream
